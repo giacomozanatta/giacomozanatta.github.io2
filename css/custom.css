@@ -7,36 +7,38 @@ body {
     margin-left: 2%;
     margin-right: 2%;
 }
+.content {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
 .navbar {
     background-color: #058ED9;
     box-shadow: 10px 10px;
     margin: 2% 2% 2% 2%;
 }
+
 .navbar-brand {
     color: white;
 }
 
-.header-col {
+.content-col {
     color: black;
-    
     box-shadow: 10px 10px 0px 0px black;
-    margin: 2% 2% 2% 2%;
     padding: 8% 8% 8% 8%;
 }
 
-.header-col-blue {
+.bg-blue {
     background-color: #6397d0;
 }
-.header-col-red {
+.bg-red {
     background-color: #d06363;
 }
-.header-name {
-    /*font-weight: 900; */
-    /*font-size: 48px; */
+.content-name {
     line-height: 100%;
     margin-top: 4%;
 }
 
-.header-caption {
+.content-caption {
     margin-top: 4%;
 }
