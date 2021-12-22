@@ -25,7 +25,23 @@ body {
 .content-col {
     color: black;
     box-shadow: 10px 10px 0px 0px black;
-    padding: 8% 8% 8% 8%;
+    padding: 9% 9% 9% 9%;
+}
+
+.content-col-left {
+    
+    color: black;
+    box-shadow: 10px 10px 0px 0px black;
+    padding: 9% 9% 9% 9%;
+}
+
+@media screen and (min-width: 992px) {
+    .content-col-left {
+    
+        color: black;
+        box-shadow: 10px 10px 0px 0px black;
+        padding: 3% 3% 3% 3%;
+    }
 }
 .content-col-quote {
     padding: 0% 2% 0% 2%;
