@@ -64,3 +64,8 @@ body {
 .blockquote-footer {
     color: black;
 }
+
+a {
+    color: black;
+    font-weight: 500;
+}
