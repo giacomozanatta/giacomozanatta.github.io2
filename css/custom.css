@@ -27,7 +27,9 @@ body {
     box-shadow: 10px 10px 0px 0px black;
     padding: 8% 8% 8% 8%;
 }
-
+.content-col-quote {
+    padding: 0% 2% 0% 2%;
+}
 .bg-blue {
     background-color: #6397d0;
 }
@@ -41,4 +43,8 @@ body {
 
 .content-caption {
     margin-top: 4%;
+}
+
+.blockquote-footer {
+    color: black;
 }
